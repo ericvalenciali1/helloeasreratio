@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Ratios.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>9F8C4E31D8E1983E8ADE78E428923D91EBBBB81D</string>
+				<key>dateExpires</key>
+				<string>19/10/25</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>K98JNZJ465.com.helloeasre.cofee</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>K98JNZJ465</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Ratios.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>5985245f-89b9-4671-983c-b287c66a0043</string>
+				<key>dateExpires</key>
+				<string>19/10/25</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: com.helloeasre.cofee</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>K98JNZJ465</string>
+				<key>name</key>
+				<string>Eric Libo-on</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
